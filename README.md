@@ -1,1 +1,1 @@
-This project is about learning to install and configure a virtual machine on Windows OS. The tools used are VirtualBox and Vagrant.
+This project is about learning to install and configure a virtual machine on Windows OS. The tools used are VirtualBox, Vagrant, and Windows Powershell.
